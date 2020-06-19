@@ -1,0 +1,29 @@
+{
+  "name": "ipscan2",
+  "version": "1.0.0",
+  "description": "IP Scanner based on the Electron Framework",
+  "main": "main.js",
+  "dependencies": {
+    "react-dom": "^16.13.1",
+    "react": "^16.13.1",
+    "source-map-loader": "^1.0.0",
+    "ts-loader": "^7.0.5",
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {
+    "electron": "^9.0.4"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencerandhill/ipscan2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spencerandhill/ipscan2/issues"
+  },
+  "homepage": "https://github.com/spencerandhill/ipscan2#readme"
+}
